@@ -1,6 +1,7 @@
-total=[]
+daftar_nilai=[]   
 for i in range (5):
     nilai=int(input("Masukkan nilai: "))
-    total.append(nilai)
-for i in total:
-    print("Nilai yang dimasukkan:", i)
+    daftar_nilai.append(nilai)
+
+print("rata -rata:", sum(daftar_nilai)/len(daftar_nilai))
+
