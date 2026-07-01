@@ -1,0 +1,5 @@
+print('30')
+print('p')
+print('Belajar coding bukan hanya tentang menulis baris kode; ini tentang mengasah pikiran Anda untuk memecahkan masalah, mengubah ide abstrak menjadi kenyataan digital, dan membangun masa depan yang belum terbayangkan')
+print('i hope..')
+print('🥳')
