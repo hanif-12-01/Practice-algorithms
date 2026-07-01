@@ -1,0 +1,8 @@
+angka=int(input("Masukkan angka: "))
+
+if angka <0:
+    print("Angka negatif")
+elif angka >0:
+    print("Angka positif")
+else:
+    print("Angka nol")
